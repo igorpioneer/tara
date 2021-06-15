@@ -1,0 +1,23 @@
+.table i{
+    cursor: pointer;
+}
+
+.table th{
+    font-weight: bold !important;
+}
+
+.error{
+    border-bottom: 1px solid red;
+}
+
+.ok{
+    border-bottom: 2px solid green;
+}
+
+.req{
+    color: red !important;
+}
+
+.hide{
+    display: none;
+}
